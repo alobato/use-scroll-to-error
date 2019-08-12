@@ -1,0 +1,34 @@
+{
+  "name": "@alobato/use-scroll-to-error",
+  "version": "1.0.0",
+  "description": "React hook scroll to error using formik",
+  "main": "index.js",
+  "repository": "github:alobato/use-scroll-to-error",
+  "author": "alobato",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "scroll-to-error"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "devDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "dependencies": {
+    "smooth-scroll-into-view-if-needed": "^1.1.23"
+  },
+  "bugs": {
+    "url": "https://github.com/alobato/use-scroll-to-error/issues"
+  },
+  "homepage": "https://github.com/alobato/use-scroll-to-error#readme"
+}
